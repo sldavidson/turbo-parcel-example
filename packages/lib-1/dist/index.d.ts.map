@@ -1,0 +1,1 @@
+{"mappings":"AACA,OAAO,MAAM,yBAEZ,CAAC","sources":["packages/ui/Button.tsx","packages/ui/index.tsx"],"sourcesContent":["import * as React from \"react\";\nexport const Button = () => {\n  return <button>Boop</button>;\n};\n","import * as React from \"react\";\nexport * from \"./Button\";\n"],"names":[],"version":3,"file":"index.d.ts.map"}
